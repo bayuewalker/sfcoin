@@ -1,0 +1,9 @@
+Building Sfcoin
+
+See doc/readme-qt.rst for instructions on building Sfcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sfcoin.
+
+See doc/build-*.txt for instructions on building sfcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sfcoin.
